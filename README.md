@@ -102,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1254" height="1254" alt="activity" src="https://github.com/user-attachments/assets/7e7ed0a2-9f7e-4e35-aece-75fe121e8fb8" />
 
 
 
@@ -123,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1661" height="947" alt="Se" src="https://github.com/user-attachments/assets/f38424c5-748b-422a-a4c7-3cd3b54e02ef" />
 
 
 
