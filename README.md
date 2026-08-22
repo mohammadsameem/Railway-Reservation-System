@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040242
+# Name:Mohamed Sameem S
+# Date:22/08/2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1329" height="1183" alt="railway" src="https://github.com/user-attachments/assets/88f5a9a3-0ffd-4d7d-95d9-991e9f282cc0" />
 
 
 
@@ -58,6 +59,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1536" height="1024" alt="CLAss" src="https://github.com/user-attachments/assets/904eb253-0265-42a0-bf39-02cfbc5a03d6" />
 
 
 
